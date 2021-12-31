@@ -1344,5 +1344,3 @@
 ВСЕГО: 135000
 БЕЗ НАЛ: 110000
 НАЛИiЧНЫЕ: 25000
-testing of file vim 
-test two bbdit
